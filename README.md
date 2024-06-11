@@ -23,4 +23,21 @@ Here are some projects that will make you practice or understand html well
 - section
 - header
 - footer
-  
+
+# 2. Personal Blog
+<img width="959" alt="image" src="https://github.com/Dhanyatha-s/Learn_fun_html/assets/95542660/0493e79e-beb6-40bf-b58c-436cfbd40cc8">
+
+#### Concept Covered
+- css properties
+  - color
+  - position
+  - font
+  - grid
+  - border
+- span
+- div
+- main
+- article
+
+
+
