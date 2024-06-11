@@ -24,7 +24,7 @@ Here are some projects that will make you practice or understand html well
 - header
 - footer
 
-# 2. Personal Blog
+# [2. Personal Blog](https://github.com/Dhanyatha-s/Learn_fun_html/blob/main/personal_blog.html)
 <img width="959" alt="image" src="https://github.com/Dhanyatha-s/Learn_fun_html/assets/95542660/0493e79e-beb6-40bf-b58c-436cfbd40cc8">
 
 #### Concept Covered
