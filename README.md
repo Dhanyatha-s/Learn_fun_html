@@ -39,7 +39,7 @@ Here are some projects that will make you practice or understand html well
 - main
 - article
 
-# 3. Portfolio website
+# [3.Portfolio website](https://github.com/Dhanyatha-s/Learn_fun_html/blob/main/simple_portfolio.html)
 <img width="944" alt="image" src="https://github.com/Dhanyatha-s/Learn_fun_html/assets/95542660/67e90098-d33a-406f-860f-3578211100ab">
 <img width="938" alt="image" src="https://github.com/Dhanyatha-s/Learn_fun_html/assets/95542660/59b61e2d-9c34-4749-92fe-3f933c9abeec">
 
